@@ -1,0 +1,16 @@
+.filterBox {
+    height: 4vw;
+    border-radius: 0.25vw;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+}
+
+.dropdown {
+    float: left;
+    margin-left: 2vw;
+    width: max-content;
+    min-width: 7vw;
+    border-radius: 1vw;
+    color: #2196f3;
+}

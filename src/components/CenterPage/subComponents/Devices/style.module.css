@@ -1,0 +1,54 @@
+.body {
+    width: 20vw;
+    margin-top: 3vw;
+    margin-left: 3vw;
+    margin-bottom: 3vw;
+    /* color: grey; */
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+    margin-top: 0%;
+    justify-self: center;
+    align-self: center;
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    float: left;
+}
+
+.phone {
+    display: flex;
+    float: inline-start;
+}
+
+.device {
+    height: 10vw;
+    /* font-size: 2vw; */
+    /* margin-bottom: 3vw; */
+}
+
+.descrp {
+    margin-left: 2vw;
+}
+
+.labelHead {
+    margin-bottom: 0%;
+}
+
+.blue {
+    color: #2196f3;
+    font-size: 18px;
+}
+
+.foot {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 3vw;
+    color: #2196f3;
+    font-size: 18px;
+    cursor: pointer;
+}

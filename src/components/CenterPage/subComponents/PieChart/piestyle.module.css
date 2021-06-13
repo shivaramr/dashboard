@@ -1,0 +1,20 @@
+.body {
+    width: 24vw;
+    margin-top: 3vw;
+    margin-left: 3vw;
+    margin-bottom: 3vw;
+    /* color: grey; */
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #c5c5c5;
+}
+
+.heading {
+    margin-top: 0%;
+    align-self: center;
+}
+
+.chart {
+    height: 23vw;
+    width: 23vw;
+}

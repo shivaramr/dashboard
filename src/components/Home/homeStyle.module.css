@@ -1,0 +1,10 @@
+.home {
+    height: 100vmin;
+    /* width: 100vw; */
+    background-color: #fff4f5;
+}
+
+.body {
+    margin-left: 10vw;
+    margin-right: 8vw;
+}

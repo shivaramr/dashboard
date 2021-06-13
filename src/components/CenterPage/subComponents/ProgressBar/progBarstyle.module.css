@@ -1,0 +1,75 @@
+.body {
+    width: 24vw;
+    margin-top: 3vw;
+    margin-left: 3vw;
+    margin-bottom: 3vw;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #c5c5c5;
+}
+
+.heading {
+    margin-top: 0%;
+    justify-self: center;
+    align-self: center;
+}
+
+.bar{
+    width: 21vw;
+    margin-top: 3vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    display:flex;
+    flex-direction: row;
+    column-gap: 14vw;
+}
+
+.label1 {
+    display:flex;
+    flex-direction: row;
+    column-gap: 15vw;
+    margin-bottom: 1vw;
+}
+
+.text {
+    margin: 0%;
+}
+
+.text1 {
+    margin: 0%;
+    color: #8bc34a;
+}
+
+.button {
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 3vw;
+    width: 12vw;
+    max-height: max-content;
+    max-width: max-content;
+    margin-top: 2vw;
+    margin-left: auto;
+    margin-right: 3vw;
+    background-color: white;
+    border: 2px solid #2196f3;
+    color: #2196f3;
+    border-radius: 5px;
+    cursor: pointer;
+    column-gap: 1vw;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.foot {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: auto;
+    margin-right: 2vw;
+    color: #2196f3;
+    font-size: 18px;
+    cursor: pointer;
+}
